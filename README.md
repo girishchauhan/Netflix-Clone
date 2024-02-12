@@ -1,1 +1,3 @@
-this is Netflix clone, I learned HTML and CSS to Buid this,
+git add .
+git commit -m "Initial commit"
+git push origin master
